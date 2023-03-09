@@ -1,0 +1,19 @@
+figure {
+    display: grid;
+    place-items: center;
+}
+
+img 
+{
+    display: block;
+    text-align: center !;
+}
+#image {
+    max-width: 100%;
+    height: auto;
+}
+img #image {
+    position: relative;
+    height: 100%;
+    width: auto;
+}
